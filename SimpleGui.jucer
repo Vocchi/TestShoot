@@ -6,6 +6,10 @@
               cppLanguageStandard="11" companyCopyright="" jucerVersion="5.2.0">
   <MAINGROUP id="LasdvP" name="SimpleGui">
     <GROUP id="{1B683BE3-D0F9-7F04-A124-E163DFFB46A7}" name="Source">
+      <FILE id="OsgJuE" name="Player.cpp" compile="1" resource="0" file="Source/Player.cpp"/>
+      <FILE id="jJxIHm" name="Player.h" compile="0" resource="0" file="Source/Player.h"/>
+      <FILE id="ZBPCtN" name="Game.cpp" compile="1" resource="0" file="Source/Game.cpp"/>
+      <FILE id="cvjwn6" name="Game.h" compile="0" resource="0" file="Source/Game.h"/>
       <FILE id="lTGXMc" name="MainComponent.cpp" compile="1" resource="0"
             file="Source/MainComponent.cpp"/>
       <FILE id="NxmxGq" name="MainComponent.h" compile="0" resource="0" file="Source/MainComponent.h"/>
@@ -36,7 +40,7 @@
         <MODULEPATH id="juce_audio_processors" path="../../Documents/JUCE/modules"/>
       </MODULEPATHS>
     </XCODE_MAC>
-    <VS2017 targetFolder="Builds/VisualStudio2017">
+    <VS2017 targetFolder="Builds/VisualStudio2017" windowsTargetPlatformVersion="10.0.16299.0">
       <CONFIGURATIONS>
         <CONFIGURATION name="Debug" winWarningLevel="4" generateManifest="1" winArchitecture="x64"
                        debugInformationFormat="ProgramDatabase" enablePluginBinaryCopyStep="0"

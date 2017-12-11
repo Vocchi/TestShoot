@@ -358,6 +358,9 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\Source\Character.cpp">
+      <Filter>SimpleGui\Source</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\Player.cpp">
       <Filter>SimpleGui\Source</Filter>
     </ClCompile>
@@ -2070,6 +2073,9 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\Source\Character.h">
+      <Filter>SimpleGui\Source</Filter>
+    </ClInclude>
     <ClInclude Include="..\..\Source\Player.h">
       <Filter>SimpleGui\Source</Filter>
     </ClInclude>

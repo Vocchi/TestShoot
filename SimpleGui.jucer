@@ -1,3 +1,4 @@
+      <FILE id="ZBPCtN" name="Game.cpp" compile="1" resource="0" file="Source/Game.cpp"/>
 <?xml version="1.0" encoding="UTF-8"?>
 
 <JUCERPROJECT id="ZwdrQq" name="SimpleGui" displaySplashScreen="1" reportAppUsage="1"
@@ -6,6 +7,8 @@
               cppLanguageStandard="11" companyCopyright="" jucerVersion="5.2.0">
   <MAINGROUP id="LasdvP" name="SimpleGui">
     <GROUP id="{1B683BE3-D0F9-7F04-A124-E163DFFB46A7}" name="Source">
+      <FILE id="r8YNAi" name="Character.h" compile="0" resource="0" file="Source/Character.h"/>
+      <FILE id="h8LLa4" name="Character.cpp" compile="1" resource="0" file="Source/Character.cpp"/>
       <FILE id="OsgJuE" name="Player.cpp" compile="1" resource="0" file="Source/Player.cpp"/>
       <FILE id="jJxIHm" name="Player.h" compile="0" resource="0" file="Source/Player.h"/>
       <FILE id="ZBPCtN" name="Game.cpp" compile="1" resource="0" file="Source/Game.cpp"/>

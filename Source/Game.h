@@ -17,7 +17,9 @@ class Game {
 public:
 	Game();
 	~Game();
-	void Action();
+    
+    void Play();
+    void CreateEnemy();
 private:
 
 

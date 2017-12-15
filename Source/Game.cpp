@@ -9,17 +9,36 @@
 */
 
 #include "Game.h"
-#include "Player.h"
 
 Game::Game() {
-	Player one();
-
 }
 
 Game::~Game() {
-
 }
 
-void Game::Action() {
-	one.move();
+void Game::Play(){
+    //Player生成
+    //Enemy生成
+    //Ballet生成
+    
+    
+    while (true) {
+        <#statements#>
+        
+        //Player move()
+        //Enemy move()
+        //Ballet move()
+        
+        if(/**/){
+            CreateEnemy();
+        }
+        
+        
+        
+        
+    }
+}
+
+void Game::CreateEnemy(/*座標*/){
+    //Enemy生成
 }

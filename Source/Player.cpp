@@ -16,7 +16,6 @@ Player::Player() {
 }
 
 Player::~Player() {
-
 }
 
 void Player::move(Graphics& g) {
